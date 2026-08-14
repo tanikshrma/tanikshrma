@@ -109,14 +109,14 @@ I build modern, responsive websites and web experiences with a strong focus on c
 <td width="50%" align="center">
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=llSiddharthll&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tanikshrma&show_icons=true&theme=github_dark)
 
 
 </td>
 
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=llSiddharthll&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tanikshrma&theme=github_dark)
 
 </td>
 </tr>
