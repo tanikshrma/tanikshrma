@@ -108,13 +108,13 @@ I build modern, responsive websites and web experiences with a strong focus on c
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=taniksharma29&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=tanikshrma&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=taniksharma29&theme=dark&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=tanikshrma&theme=dark&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ I build modern, responsive websites and web experiences with a strong focus on c
 
 <p align="center">
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=taniksharma29&theme=github-dark&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=tanikshrma&theme=github-dark&hide_border=true&area=true"
 width="100%"
 />
 </p>
