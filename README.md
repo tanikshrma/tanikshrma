@@ -108,7 +108,14 @@ I build modern, responsive websites and web experiences with a strong focus on c
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=tanikshrma&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+<!-- GitHub Stats -->
+<h2>📈 GitHub Stats</h2>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=llSiddharthll&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=llSiddharthll&theme=github_dark)
+
+
+<hr/>
 
 </td>
 
