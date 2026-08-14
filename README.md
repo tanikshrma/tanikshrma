@@ -125,14 +125,7 @@ I build modern, responsive websites and web experiences with a strong focus on c
 
 </td>
 </tr>
-<td width="50%" align="center">
 
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanikshrma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</td>
-</tr>
 </table>
 
 ---
