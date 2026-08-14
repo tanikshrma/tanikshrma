@@ -109,18 +109,26 @@ I build modern, responsive websites and web experiences with a strong focus on c
 <td width="50%" align="center">
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tanikshrma&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.shion.dev/api?username=tanikshrma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 </td>
 
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tanikshrma&theme=github_dark)
 
 
-![](https://github-readme-stats.shion.dev/api?username=tanikshrma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
 ![](https://streak-stats.demolab.com/?user=tanikshrma&theme=dark&hide_border=false)<br/>
+
+
+</td>
+</tr>
+<td width="50%" align="center">
+
+
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanikshrma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </td>
