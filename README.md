@@ -175,18 +175,4 @@ I build modern, responsive websites and web experiences with a strong focus on c
 </div>
 
 
-## octocat's GitHub stats
-
-![octocat's GitHub stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true)
-
-![octocat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight&hide_border=true)
-
-![octocat's GitHub streak](https://streak-stats.demolab.com/?user=octocat&theme=tokyonight&hide_border=true)
-
-![octocat/Spoon-Knife repo card](https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=Spoon-Knife&show_owner=true&theme=tokyonight&hide_border=true)
-
----
-
-[Built with the free GitHub README Stats Generator](https://www.codecard.dev/tools/github-readme-stats-generator) by Code Card.
-
 
